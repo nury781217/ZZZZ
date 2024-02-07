@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("test1234", "aaaa")
         Log.d("test1234", "bbb")
         val a10 = 10
+        val a20 = 20
     }
 }
