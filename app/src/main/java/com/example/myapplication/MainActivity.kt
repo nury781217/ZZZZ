@@ -10,12 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("test1234", "aaaa")
-        Log.d("test1234", "test20000")
-        Log.d("test1234", "test3000")
-        Log.d("test1234", "test4000")
-        Log.d("test1234", "test5000")
-        Log.d("test1234",  "Test60000")
-        Log.d("test1234", "test700000")
-        Log.d("test1234", "Test800000")
     }
 }
