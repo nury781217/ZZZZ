@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("test1234", "test3000")
         Log.d("test1234", "test4000")
         Log.d("test1234", "test5000")
+        Log.d("test1234",  "Test60000")
     }
 }
